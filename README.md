@@ -7,3 +7,5 @@ for a particle of one electron-mass in some simple, 1D potentials that are other
 for analytically.
 
 This project is coded in Python using Jupyter Notebooks, which provides a human readable script with embedded discussion.
+
+We have also exported our final notebooks as .html files, so that our results can be viewed even without jupyter notebooks.
